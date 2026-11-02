@@ -1,4 +1,4 @@
-Here — copy ALL of this, save as `SWID_Python_and_Git_Recap.ipynb`
+ `SWID_Python_and_Git_Recap.ipynb`
 {
   "cells": [
     {
@@ -159,10 +159,5 @@ Here — copy ALL of this, save as `SWID_Python_and_Git_Recap.ipynb`
   "nbformat": 4,
   "nbformat_minor": 4
 }
-*How to save on Android:*
-1. Open *Acode* or *QuickEdit* app
-2. New File > Paste this entire JSON
-3. Save as `SWID_Python_and_Git_Recap.ipynb` in Downloads
-4. Then upload to GitHub using Method 1 I gave you
 
-Done! Need help uploading it?
+
