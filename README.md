@@ -1,4 +1,10 @@
-`SWID_Python_and_Git_Recap.ipynb`
+
+
+Your pasted file has broken quotes — that's why GitHub shows error. The `"` inside code need escaping.
+
+I fixed it. *Copy this CORRECT version — replace your file with this:*
+
+Go to GitHub App > Open `SWID_Python_and_Git_Recap.ipynb` > Tap pencil ✏️ > Select All > Delete > Paste this fixed version > Commit:
 {
   "cells": [
     {
@@ -159,8 +165,7 @@
   "nbformat": 4,
   "nbformat_minor": 4
 }
-
-
+This one will render perfectly on GitHub. After you commit, paste your repo link here — I'll check it.
 
 
 
