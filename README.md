@@ -1,7 +1,4 @@
 
-I see the problem — you're copying from WhatsApp and it *removes the \ backslashes* that make the file valid.
-
-
 SWID Python & Git Recap - Pearl Nkeng
 name = "Pearl"
 favourite_city = "Cameroon"
